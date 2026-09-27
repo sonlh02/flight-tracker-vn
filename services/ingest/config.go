@@ -9,7 +9,7 @@ import (
 	"strings"
 	"time"
 
-	"flighttracker/services/ingest/internal/opensky"
+	"github.com/sonlh02/flight-tracker-vn/services/ingest/internal/opensky"
 )
 
 type config struct {

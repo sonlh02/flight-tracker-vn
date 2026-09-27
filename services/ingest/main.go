@@ -13,9 +13,9 @@ import (
 	"syscall"
 	"time"
 
-	"flighttracker/services/ingest/internal/opensky"
-	"flighttracker/services/ingest/internal/record"
-	"flighttracker/services/ingest/internal/source"
+	"github.com/sonlh02/flight-tracker-vn/services/ingest/internal/opensky"
+	"github.com/sonlh02/flight-tracker-vn/services/ingest/internal/record"
+	"github.com/sonlh02/flight-tracker-vn/services/ingest/internal/source"
 )
 
 func main() {

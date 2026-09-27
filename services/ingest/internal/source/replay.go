@@ -10,7 +10,7 @@ import (
 	"os"
 	"time"
 
-	"flighttracker/services/ingest/internal/opensky"
+	"github.com/sonlh02/flight-tracker-vn/services/ingest/internal/opensky"
 )
 
 // Replay plays back a JSON Lines recording written by package record,

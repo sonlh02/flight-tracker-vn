@@ -6,7 +6,7 @@ import (
 	"context"
 	"time"
 
-	"flighttracker/services/ingest/internal/opensky"
+	"github.com/sonlh02/flight-tracker-vn/services/ingest/internal/opensky"
 )
 
 // Source sends snapshots to out until ctx is cancelled or the source is

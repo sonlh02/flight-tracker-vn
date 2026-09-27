@@ -8,8 +8,8 @@ import (
 	"testing"
 	"time"
 
-	"flighttracker/services/ingest/internal/opensky"
-	"flighttracker/services/ingest/internal/record"
+	"github.com/sonlh02/flight-tracker-vn/services/ingest/internal/opensky"
+	"github.com/sonlh02/flight-tracker-vn/services/ingest/internal/record"
 )
 
 func TestRecordThenReplay(t *testing.T) {

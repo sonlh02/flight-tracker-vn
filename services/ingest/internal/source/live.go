@@ -6,7 +6,7 @@ import (
 	"log/slog"
 	"time"
 
-	"flighttracker/services/ingest/internal/opensky"
+	"github.com/sonlh02/flight-tracker-vn/services/ingest/internal/opensky"
 )
 
 // StatesFetcher is the part of opensky.Client that Live needs.

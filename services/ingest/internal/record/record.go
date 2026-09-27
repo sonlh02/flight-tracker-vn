@@ -7,7 +7,7 @@ import (
 	"os"
 	"path/filepath"
 
-	"flighttracker/services/ingest/internal/opensky"
+	"github.com/sonlh02/flight-tracker-vn/services/ingest/internal/opensky"
 )
 
 // Writer appends one snapshot per line to a file.
