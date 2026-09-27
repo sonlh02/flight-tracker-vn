@@ -1,0 +1,22 @@
+# Secrets
+.env
+
+# Local OpenSky recordings (commit a curated sample elsewhere, e.g. data/replay/)
+data/recordings/*
+!data/recordings/.gitkeep
+
+# Go
+bin/
+*.exe
+*.test
+coverage.out
+
+# Web
+web/node_modules/
+web/dist/
+
+# Editors / OS
+.idea/
+.vscode/
+.DS_Store
+Thumbs.db
